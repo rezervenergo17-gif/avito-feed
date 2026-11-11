@@ -1,10 +1,10 @@
 # Отчёт синхронизации Avito
 
-Собрано: 10.11.2026 08:34 UTC
+Собрано: 11.11.2026 06:44 UTC
 Фид TSS: сайт TSS недоступен (URLError), использована прошлая копия; файл yandex_811573_2110.xml, дата фида 2026-10-20 17:25
 Fubag: order28_september_2026.xlsx (остатки на 28.09.2026)
-Исток: istok_blue.xml: сайт недоступен (TimeoutError), прошлая копия; istok_port.xml: сайт недоступен (TimeoutError), прошлая копия
-Кама-Авто: kama_ostatki_29.10.26.xls, позиций 1502
+Исток: istok_blue.xml: скачан; istok_port.xml: скачан
+Кама-Авто: Прайс-лист 10.11.26.xls, позиций 1592
 
 | Что | Кол-во |
 |---|---:|
@@ -23,8 +23,8 @@ Fubag: order28_september_2026.xlsx (остатки на 28.09.2026)
 |   из них Fubag (фото-заглушка) | 1077 |
 | Не добавлено: нет фото | 18 |
 | Исток: генераторов добавлено (цена фида −10%) | 51 |
-| Кама-Авто: фильтров добавлено (цена прайса +25%) | 935 |
-| Кама-Авто: не добавлено, цена после наценки ниже 1000 ₽ | 567 |
+| Кама-Авто: фильтров добавлено (цена прайса +25%) | 979 |
+| Кама-Авто: не добавлено, цена после наценки ниже 1000 ₽ | 613 |
 
 ## оставлено: источник не найден (1893)
 
@@ -2530,7 +2530,7 @@ Fubag: order28_september_2026.xlsx (остатки на 28.09.2026)
 | istok-5890 | Бензиновый генератор 10 кВт Исток АБ10-О230-ВМ121Э | 230860 | 207774 |
 | istok-5891 | Бензиновый генератор 10 кВт Исток АБ10-Т400 | 251200 | 226080 |
 
-## Кама-Авто: добавлено (935)
+## Кама-Авто: добавлено (979)
 
 | ID | Название | Было | Стало |
 |---|---|---:|---:|
@@ -2543,17 +2543,18 @@ Fubag: order28_september_2026.xlsx (остатки на 28.09.2026)
 | kama-AA2955 | Фильтр воздушный AA2955 Fleetguard комплект | 1253 | 1566 |
 | kama-AA2956 | Фильтр воздушный AA2956 Fleetguard комплект | 1417 | 1771 |
 | kama-AA2957 | Фильтр воздушный AA2957 Fleetguard комплект | 3204 | 4005 |
-| kama-AA2959 | Фильтр воздушный AA2959 Fleetguard комплект | 2855 | 3569 |
 | kama-AA2978 | Фильтр воздушный AA2978 Fleetguard комплект | 2717 | 3396 |
 | kama-AA90132 | Фильтр воздушный AA90132 Fleetguard комплект | 2867 | 3584 |
 | kama-AA90138 | Фильтр воздушный AA90138 Fleetguard комплект | 2161 | 2701 |
-| kama-AA90140 | Фильтр воздушный AA90140 Fleetguard комплект | 3075 | 3844 |
+| kama-AA90141 | Фильтр воздушный AA90141 Fleetguard комплект | 4280 | 5350 |
 | kama-AA90142 | Фильтр воздушный AA90142 Fleetguard комплект | 2766 | 3458 |
+| kama-AA90145 | Фильтр воздушный AA90145 Fleetguard комплект | 1901 | 2376 |
+| kama-AA90168 | Фильтр воздушный AA90168 Fleetguard комплект | 4590 | 5738 |
 | kama-AA90178 | Фильтр воздушный AA90178 Fleetguard комплект | 2134 | 2668 |
+| kama-AA90179 | Фильтр воздушный AA90179 Fleetguard комплект | 2770 | 3462 |
 | kama-AA90180 | Фильтр воздушный AA90180 Fleetguard комплект | 3028 | 3785 |
 | kama-AA90181 | Фильтр воздушный AA90181 Fleetguard комплект | 3008 | 3760 |
-| kama-AA90232 | Фильтр воздушный AA90232 Fleetguard комплект | 4257 | 5321 |
-| kama-AA90259 | Фильтр воздушный AA90259 Fleetguard комплект | 8284 | 10355 |
+| kama-AA90259 | Фильтр воздушный AA90259 Fleetguard комплект | 8306 | 10382 |
 | kama-AF1658K | Фильтр воздушный AF1658K Fleetguard | 2081 | 2601 |
 | kama-AF1708 | Фильтр воздушный AF1708 Fleetguard | 2690 | 3362 |
 | kama-AF1733K | Фильтр воздушный AF1733K Fleetguard | 3825 | 4781 |
@@ -2573,6 +2574,7 @@ Fubag: order28_september_2026.xlsx (остатки на 28.09.2026)
 | kama-AF25247 | Фильтр воздушный AF25247 Fleetguard | 9045 | 11306 |
 | kama-AF25278 | Фильтр воздушный AF25278 Fleetguard | 6565 | 8206 |
 | kama-AF25430 | Фильтр воздушный AF25430 Fleetguard | 6646 | 8308 |
+| kama-AF25437AF25523 | Фильтр воздушный AF25437+AF25523 Fleetguard комплект | 3405 | 4256 |
 | kama-AF25454 | Фильтр воздушный AF25454 Fleetguard | 6030 | 7538 |
 | kama-AF25468 | Фильтр воздушный AF25468 Fleetguard | 1629 | 2036 |
 | kama-AF25491 | Фильтр воздушный AF25491 Fleetguard | 3586 | 4482 |
@@ -2584,7 +2586,6 @@ Fubag: order28_september_2026.xlsx (остатки на 28.09.2026)
 | kama-AF25551 | Фильтр воздушный AF25551 Fleetguard | 2134 | 2668 |
 | kama-AF25556 | Фильтр воздушный AF25556 Fleetguard | 2119 | 2649 |
 | kama-AF25578M | Фильтр воздушный AF25578M Fleetguard | 3825 | 4781 |
-| kama-AF25593 | Фильтр воздушный AF25593 Fleetguard | 10577 | 13221 |
 | kama-AF25595 | Фильтр воздушный AF25595 Fleetguard | 11681 | 14601 |
 | kama-AF25596M | Фильтр воздушный AF25596M Fleetguard | 4910 | 6138 |
 | kama-AF25618 | Фильтр воздушный AF25618 Fleetguard | 4037 | 5046 |
@@ -2592,7 +2593,6 @@ Fubag: order28_september_2026.xlsx (остатки на 28.09.2026)
 | kama-AF25620 | Фильтр воздушный AF25620 Fleetguard | 3337 | 4171 |
 | kama-AF25627 | Фильтр воздушный AF25627 Fleetguard | 5341 | 6676 |
 | kama-AF25627AF25468 | Фильтр воздушный AF25627+AF25468 Fleetguard | 6826 | 8532 |
-| kama-AF25631 | Фильтр воздушный AF25631 Fleetguard | 6708 | 8385 |
 | kama-AF25708M | Фильтр воздушный AF25708M Fleetguard | 6811 | 8514 |
 | kama-AF25710 | Фильтр воздушный AF25710 Fleetguard | 6960 | 8700 |
 | kama-AF25711 | Фильтр воздушный AF25711 Fleetguard | 4365 | 5456 |
@@ -2609,6 +2609,7 @@ Fubag: order28_september_2026.xlsx (остатки на 28.09.2026)
 | kama-AF25964 | Фильтр воздушный AF25964 Fleetguard | 3301 | 4126 |
 | kama-AF26044 | Фильтр воздушный AF26044 Fleetguard | 4782 | 5978 |
 | kama-AF26094 | Фильтр воздушный AF26094 Fleetguard | 1738 | 2172 |
+| kama-AF26124 | Фильтр воздушный AF26124 Fleetguard | 8411 | 10514 |
 | kama-AF26125 | Фильтр воздушный AF26125 Fleetguard | 2082 | 2602 |
 | kama-AF26173 | Фильтр воздушный AF26173 Fleetguard | 13641 | 17051 |
 | kama-AF26186 | Фильтр воздушный AF26186 Fleetguard | 4986 | 6232 |
@@ -2618,10 +2619,11 @@ Fubag: order28_september_2026.xlsx (остатки на 28.09.2026)
 | kama-AF26215 | Фильтр воздушный AF26215 Fleetguard | 4006 | 5008 |
 | kama-AF26336 | Фильтр воздушный AF26336 Fleetguard | 4997 | 6246 |
 | kama-AF26337 | Фильтр воздушный AF26337 Fleetguard | 8953 | 11191 |
+| kama-AF26345 | Фильтр воздушный AF26345 Fleetguard | 6150 | 7688 |
 | kama-AF26357 | Фильтр воздушный AF26357 Fleetguard | 1897 | 2371 |
 | kama-AF26394 | Фильтр воздушный AF26394 Fleetguard | 3298 | 4122 |
 | kama-AF26397 | Фильтр воздушный AF26397 Fleetguard | 5082 | 6352 |
-| kama-AF26483 | Фильтр воздушный AF26483 Fleetguard | 4815 | 6019 |
+| kama-AF26483 | Фильтр воздушный AF26483 Fleetguard | 4208 | 5260 |
 | kama-AF26501 | Фильтр воздушный AF26501 Fleetguard | 2486 | 3108 |
 | kama-AF26675 | Фильтр воздушный AF26675 Fleetguard | 2497 | 3121 |
 | kama-AF27859 | Фильтр воздушный AF27859 Fleetguard | 4265 | 5331 |
@@ -2660,27 +2662,26 @@ Fubag: order28_september_2026.xlsx (остатки на 28.09.2026)
 | kama-AF820M | Фильтр воздушный AF820M Fleetguard | 1630 | 2038 |
 | kama-AF821M | Фильтр воздушный AF821M Fleetguard | 1372 | 1715 |
 | kama-AF851M | Фильтр воздушный AF851M Fleetguard | 5207 | 6509 |
+| kama-AF872 | Фильтр воздушный AF872 Fleetguard | 3935 | 4919 |
+| kama-AF879M | Фильтр воздушный AF879M Fleetguard | 8415 | 10519 |
 | kama-AF880 | Фильтр воздушный AF880 Fleetguard | 5714 | 7142 |
+| kama-AF883M | Фильтр воздушный AF883M Fleetguard | 1901 | 2376 |
 | kama-AF899M | Фильтр воздушный AF899M Fleetguard | 8611 | 10764 |
 | kama-AH1100 | Фильтр воздушный AH1100 Fleetguard | 13553 | 16941 |
-| kama-AH1135 | Фильтр воздушный AH1135 Fleetguard | 7981 | 9976 |
 | kama-AH1196 | Фильтр воздушный AH1196 Fleetguard | 8804 | 11005 |
 | kama-AS2454 | Фильтр воздушный AS2454 Fleetguard | 13172 | 16465 |
-| kama-AS2474 | Фильтр воздушный AS2474 Fleetguard | 1594 | 1992 |
 | kama-CS41000 | Фильтр масляный CS41000 Fleetguard | 2160 | 2700 |
 | kama-CS41018 | Фильтр масляный CS41018 Fleetguard | 15150 | 18938 |
 | kama-FF185 | Фильтр топливный FF185 Fleetguard | 989 | 1236 |
-| kama-FF202 | Фильтр топливный FF202 Fleetguard | 1226 | 1532 |
+| kama-FF202 | Фильтр топливный FF202 Fleetguard | 1230 | 1538 |
 | kama-FF209 | Фильтр топливный FF209 Fleetguard | 1364 | 1705 |
 | kama-FF2203 | Фильтр топливный FF2203 Fleetguard | 2452 | 3065 |
 | kama-FF232 | Фильтр топливный FF232 Fleetguard | 1371 | 1714 |
 | kama-FF254 | Фильтр топливный FF254 Fleetguard | 2714 | 3392 |
 | kama-FF261 | Фильтр топливный FF261 Fleetguard | 3668 | 4585 |
-| kama-FF266 | Фильтр топливный FF266 Fleetguard | 1860 | 2325 |
 | kama-FF269 | Фильтр топливный FF269 Fleetguard | 2353 | 2941 |
 | kama-FF4070 | Фильтр топливный FF4070 Fleetguard | 1651 | 2064 |
-| kama-FF42196 | Фильтр топливный FF42196 Fleetguard | 1337 | 1671 |
-| kama-FF5011 | Фильтр топливный FF5011 Fleetguard | 1951 | 2439 |
+| kama-FF42196 | Фильтр топливный FF42196 Fleetguard | 1342 | 1678 |
 | kama-FF5045 | Фильтр топливный FF5045 Fleetguard | 2941 | 3676 |
 | kama-FF5087 | Фильтр топливный FF5087 Fleetguard | 1168 | 1460 |
 | kama-FF5108 | Фильтр топливный FF5108 Fleetguard | 1390 | 1738 |
@@ -2698,16 +2699,13 @@ Fubag: order28_september_2026.xlsx (остатки на 28.09.2026)
 | kama-FF5317 | Фильтр топливный FF5317 Fleetguard | 2951 | 3689 |
 | kama-FF5319 | Фильтр топливный FF5319 Fleetguard | 1427 | 1784 |
 | kama-FF5321 | Фильтр топливный FF5321 Fleetguard | 1211 | 1514 |
-| kama-FF5323 | Фильтр топливный FF5323 Fleetguard | 1408 | 1760 |
 | kama-FF5324 | Фильтр топливный FF5324 Fleetguard | 1240 | 1550 |
 | kama-FF5366 | Фильтр топливный FF5366 Fleetguard | 1422 | 1778 |
 | kama-FF5380 | Фильтр топливный FF5380 Fleetguard | 1060 | 1325 |
 | kama-FF5405 | Фильтр топливный FF5405 Fleetguard | 1690 | 2112 |
-| kama-FF5457 | Фильтр топливный FF5457 Fleetguard | 2011 | 2514 |
 | kama-FF5458 | Фильтр топливный FF5458 Fleetguard | 2330 | 2912 |
 | kama-FF5470 | Фильтр топливный FF5470 Fleetguard | 1760 | 2200 |
 | kama-FF5471 | Фильтр топливный FF5471 Fleetguard | 1540 | 1925 |
-| kama-FF5506 | Фильтр топливный FF5506 Fleetguard | 4640 | 5800 |
 | kama-FF5580 | Фильтр топливный FF5580 Fleetguard | 815 | 1019 |
 | kama-FF5611 | Фильтр топливный FF5611 Fleetguard | 2588 | 3235 |
 | kama-FF5612 | Фильтр топливный FF5612 Fleetguard | 916 | 1145 |
@@ -2715,7 +2713,6 @@ Fubag: order28_september_2026.xlsx (остатки на 28.09.2026)
 | kama-FF5626 | Фильтр топливный FF5626 Fleetguard | 1696 | 2120 |
 | kama-FF5644 | Фильтр топливный FF5644 Fleetguard | 5112 | 6390 |
 | kama-FF5688 | Фильтр топливный FF5688 Fleetguard | 1415 | 1769 |
-| kama-FF5706 | Фильтр топливный FF5706 Fleetguard | 1277 | 1596 |
 | kama-FF5740 | Фильтр топливный FF5740 Fleetguard | 1141 | 1426 |
 | kama-FF5761 | Фильтр топливный FF5761 Fleetguard | 828 | 1035 |
 | kama-FF5782NN | Фильтр топливный FF5782NN Fleetguard | 11366 | 14208 |
@@ -2730,13 +2727,13 @@ Fubag: order28_september_2026.xlsx (остатки на 28.09.2026)
 | kama-FF63028NN | Фильтр топливный FF63028NN Fleetguard | 6078 | 7598 |
 | kama-FF63040NN | Фильтр топливный FF63040NN Fleetguard | 5373 | 6716 |
 | kama-FF63046NN | Фильтр топливный FF63046NN Fleetguard | 3085 | 3856 |
-| kama-FF63054NN | Фильтр топливный FF63054NN Fleetguard | 4796 | 5995 |
 | kama-FF63055NN | Фильтр топливный FF63055NN Fleetguard | 9089 | 11361 |
-| kama-FH21076 | Фильтр топливный FH21076 Fleetguard | 6593 | 8241 |
+| kama-FH21076 | Фильтр топливный FH21076 Fleetguard | 6356 | 7945 |
 | kama-FH22238 | Фильтр топливный FH22238 Fleetguard | 25214 | 31518 |
 | kama-FH22261 | Фильтр топливный FH22261 Fleetguard | 26826 | 33532 |
 | kama-FK13924 | Фильтр топливный FK13924 Fleetguard | 17723 | 22154 |
 | kama-FK48001 | Фильтр топливный FK48001 Fleetguard | 4958 | 6198 |
+| kama-FS1000 | Фильтр топливный FS1000 Fleetguard | 975 | 1219 |
 | kama-FS1003 | Фильтр топливный FS1003 Fleetguard | 2005 | 2506 |
 | kama-FS1029W | Фильтр топливный FS1029W Fleetguard | 1529 | 1911 |
 | kama-FS1040 | Фильтр топливный FS1040 Fleetguard | 2737 | 3421 |
@@ -2767,6 +2764,7 @@ Fubag: order28_september_2026.xlsx (остатки на 28.09.2026)
 | kama-FS19728 | Фильтр топливный FS19728 Fleetguard | 2451 | 3064 |
 | kama-FS19730 | Фильтр топливный FS19730 Fleetguard | 1482 | 1852 |
 | kama-FS19731 | Фильтр топливный FS19731 Fleetguard | 1847 | 2309 |
+| kama-FS19732 | Фильтр топливный FS19732 Fleetguard | 1421 | 1776 |
 | kama-FS19735 | Фильтр топливный FS19735 Fleetguard | 2737 | 3421 |
 | kama-FS19737 | Фильтр топливный FS19737 Fleetguard | 3221 | 4026 |
 | kama-FS19754 | Фильтр топливный FS19754 Fleetguard | 4806 | 6008 |
@@ -2781,9 +2779,7 @@ Fubag: order28_september_2026.xlsx (остатки на 28.09.2026)
 | kama-FS19833 | Фильтр топливный FS19833 Fleetguard | 1819 | 2274 |
 | kama-FS19902 | Фильтр топливный FS19902 Fleetguard | 1505 | 1881 |
 | kama-FS19906 | Фильтр топливный FS19906 Fleetguard | 2185 | 2731 |
-| kama-FS19920 | Фильтр топливный FS19920 Fleetguard | 3182 | 3978 |
 | kama-FS19925 | Фильтр топливный FS19925 Fleetguard | 860 | 1075 |
-| kama-FS19932 | Фильтр топливный FS19932 Fleetguard | 2311 | 2889 |
 | kama-FS19946 | Фильтр топливный FS19946 Fleetguard | 6512 | 8140 |
 | kama-FS19950 | Фильтр топливный FS19950 Fleetguard | 3789 | 4736 |
 | kama-FS19953 | Фильтр топливный FS19953 Fleetguard | 1645 | 2056 |
@@ -2799,9 +2795,11 @@ Fubag: order28_september_2026.xlsx (остатки на 28.09.2026)
 | kama-FS20121 | Фильтр топливный FS20121 Fleetguard | 10034 | 12542 |
 | kama-FS20127 | Фильтр топливный FS20127 Fleetguard | 11231 | 14039 |
 | kama-FS20147 | Фильтр топливный FS20147 Fleetguard | 5573 | 6966 |
+| kama-FS20156 | Фильтр топливный FS20156 Fleetguard | 1705 | 2131 |
 | kama-FS20165 | Фильтр топливный FS20165 Fleetguard | 3603 | 4504 |
 | kama-FS20181 | Фильтр топливный FS20181 Fleetguard | 1714 | 2142 |
 | kama-FS20190 | Фильтр топливный FS20190 Fleetguard | 3300 | 4125 |
+| kama-FS20203 | Фильтр топливный FS20203 Fleetguard | 1793 | 2241 |
 | kama-FS20214 | Фильтр топливный FS20214 Fleetguard | 911 | 1139 |
 | kama-FS20217 | Фильтр топливный FS20217 Fleetguard | 2938 | 3672 |
 | kama-FS20218 | Фильтр топливный FS20218 Fleetguard | 3416 | 4270 |
@@ -2811,19 +2809,19 @@ Fubag: order28_september_2026.xlsx (остатки на 28.09.2026)
 | kama-FS36209 | Фильтр топливный FS36209 Fleetguard | 1490 | 1862 |
 | kama-FS36210 | Фильтр топливный FS36210 Fleetguard | 994 | 1242 |
 | kama-FS36215 | Фильтр топливный FS36215 Fleetguard | 1624 | 2030 |
-| kama-FS36216 | Фильтр топливный FS36216 Fleetguard | 1781 | 2226 |
 | kama-FS36220 | Фильтр топливный FS36220 Fleetguard | 2028 | 2535 |
 | kama-FS36230 | Фильтр топливный FS36230 Fleetguard | 1348 | 1685 |
-| kama-FS36231 | Фильтр топливный FS36231 Fleetguard | 1065 | 1331 |
+| kama-FS36234 | Фильтр топливный FS36234 Fleetguard | 1208 | 1510 |
 | kama-FS36234B | Фильтр топливный FS36234B Fleetguard с колбой | 2039 | 2549 |
 | kama-FS36235 | Фильтр топливный FS36235 Fleetguard | 1206 | 1508 |
 | kama-FS36235S | Фильтр топливный FS36235S Fleetguard | 1703 | 2129 |
-| kama-FS36259 | Фильтр топливный FS36259 Fleetguard | 1774 | 2218 |
+| kama-FS36247 | Фильтр топливный FS36247 Fleetguard | 1112 | 1390 |
 | kama-FS36260 | Фильтр топливный FS36260 Fleetguard | 2140 | 2675 |
+| kama-FS36263 | Фильтр топливный FS36263 Fleetguard | 1029 | 1286 |
 | kama-FS36267 | Фильтр топливный FS36267 Fleetguard | 1041 | 1301 |
 | kama-FS36267B | Фильтр топливный FS36267B Fleetguard с колбой | 1671 | 2089 |
 | kama-FS36277 | Фильтр топливный FS36277 Fleetguard | 2040 | 2550 |
-| kama-FS53014 | Фильтр топливный FS53014 Fleetguard | 17580 | 21975 |
+| kama-FS53014 | Фильтр топливный FS53014 Fleetguard | 18578 | 23222 |
 | kama-FS53016NN | Фильтр топливный FS53016NN Fleetguard | 8079 | 10099 |
 | kama-FS53040NN | Фильтр топливный FS53040NN Fleetguard | 6575 | 8219 |
 | kama-HF28808 | Фильтр гидравлический HF28808 Fleetguard | 3173 | 3966 |
@@ -2834,4 +2832,6 @@ Fubag: order28_september_2026.xlsx (остатки на 28.09.2026)
 | kama-HF29106 | Фильтр гидравлический HF29106 Fleetguard | 882 | 1102 |
 | kama-HF29126 | Фильтр гидравлический HF29126 Fleetguard | 6465 | 8081 |
 | kama-HF29303 | Фильтр гидравлический HF29303 Fleetguard | 3831 | 4789 |
-| … | ещё 635 | | |
+| kama-HF35006 | Фильтр гидравлический HF35006 Fleetguard | 4009 | 5011 |
+| kama-HF35018 | Фильтр гидравлический HF35018 Fleetguard | 2252 | 2815 |
+| … | ещё 679 | | |
